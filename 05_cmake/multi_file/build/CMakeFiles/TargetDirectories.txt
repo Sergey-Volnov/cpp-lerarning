@@ -1,0 +1,3 @@
+/home/sergey/C++/05_cmake/multi_file/build/CMakeFiles/multi_file.dir
+/home/sergey/C++/05_cmake/multi_file/build/CMakeFiles/edit_cache.dir
+/home/sergey/C++/05_cmake/multi_file/build/CMakeFiles/rebuild_cache.dir

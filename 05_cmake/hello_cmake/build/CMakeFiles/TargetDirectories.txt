@@ -1,0 +1,3 @@
+/home/sergey/C++/05_cmake/hello_cmake/build/CMakeFiles/hello.dir
+/home/sergey/C++/05_cmake/hello_cmake/build/CMakeFiles/edit_cache.dir
+/home/sergey/C++/05_cmake/hello_cmake/build/CMakeFiles/rebuild_cache.dir
